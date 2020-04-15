@@ -1,0 +1,39 @@
+{
+   "albumTitle": "Taylor Swift",
+   "albumList": [
+      {
+      "title": "justin_zebra",
+      "text01":"這到底甚麼閃現 阿阿阿阿阿!",
+      "url": "https://www.amazon.com/Taylor-Swift/dp/B0014I4KH6",
+      "image": "https://i.imgur.com/s37q1Gf.gif",
+      "thumbnail_image": "https://github.com/justinzebra/img/blob/master/1.jpg?raw=true"
+      },
+      {
+         "title": "iamdavid",
+         "text01":"別笑，你更爛!!!",
+         "url": "https://www.amazon.com/Fearless-Enhanced-Taylor-Swift/dp/B001EYGOEM",
+         "image": "https://cdn.clickme.net/gallery/37cdc6b909d0bbc2dc931f4cd7c9878e.jpg",
+         "thumbnail_image": "https://github.com/justinzebra/img/blob/master/222.jpg?raw=true"
+      },
+      {
+         "title": "whsiang25",
+         "text01":"rip 我的籃球初衷",
+         "url": "https://www.amazon.com/Speak-Now-Taylor-Swift/dp/B003WTE886",
+         "image": "https://s.yimg.com/ny/api/res/1.2/Abfm5e.Ib1kyzCyA1BxTCA--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-images/2020-01/0e994fe0-40dd-11ea-9e7f-662be406131d",
+         "thumbnail_image": "https://github.com/justinzebra/img/blob/master/333.jpg?raw=true"
+      },
+      {
+         "title": "Red0987",
+         "text01":"Bang則通，通則達啦!!!",
+         "url": "https://www.amazon.com/Red-Taylor-Swift/dp/B008XNZMOU",
+         "image": "https://gamcka.com/attachments/1779/",
+         "thumbnail_image": "https://github.com/justinzebra/img/blob/master/3333.jpg?raw=true"
+      },
+      {
+         "title": "1989.04.22",
+         "text01":"你出事，我來扛!!",
+         "url": "https://www.amazon.com/1989-Taylor-Swift/dp/B00MRHANNI",
+         "image": "https://img.99danji.com/uploadfile/2020/0413/20200413112143465.jpg",
+         "thumbnail_image": "https://github.com/justinzebra/img/blob/master/88888.jpg?raw=true"
+      }
+]}
